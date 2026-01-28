@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "955693165411",
+    "project_id": "test-app-ecf2b",
+    "storage_bucket": "test-app-ecf2b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:955693165411:android:468a9b8ce0d36299104156",
+        "android_client_info": {
+          "package_name": "com.example.test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEJSPbQiH1FdzT5e2LBvz3AaYlONARzCQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
