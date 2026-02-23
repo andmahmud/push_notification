@@ -60,9 +60,7 @@ class GoogleAuthController extends GetxController {
       Get.snackbar(
         "Success",
         "Login Successful!",
-        snackPosition: SnackPosition.TOP,
-        
-      );
+        snackPosition: SnackPosition.TOP,      );
     } catch (e) {
       Get.snackbar(
         "Error",
